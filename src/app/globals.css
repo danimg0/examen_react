@@ -30,6 +30,11 @@ body {
   margin: 0;
 }
 
+.foto {
+  width: 400px;
+  height: 200px;
+}
+
 a {
   color: inherit;
   text-decoration: none;
